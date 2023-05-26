@@ -1,0 +1,14 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "bacic calculator and first plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MathCalculator"
+  ],
+  "author": "Ridham Kanauji",
+  "license": "ISC"
+}
